@@ -12,4 +12,4 @@
 	    关于+-呢，一般来说PUL-、DIR-、EN-都接所对应的信号，PUL+\DIR+\ENA+就接+5V的电源就可以了
 
 
-											昕之扉
+									    ——liaozixin
